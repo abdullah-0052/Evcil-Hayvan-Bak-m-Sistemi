@@ -18,4 +18,5 @@ Kullanılna Malzemelr:
 10) Breadboard
 
 Projenin Bağlantıları
-![WhatsApp Image 2024-06-08 at 4 01 16 PM](https://github.com/abdullah-0052/Evcil-Hayvan-Bak-m-Sistemi/assets/168473906/4d791061-9eaf-4d89-be4e-3fb156266914)
+
+![WhatsApp Image 2024-06-12 at 3 47 00 AM](https://github.com/abdullah-0052/Evcil-Hayvan-Bak-m-Sistemi/assets/168473906/85442f59-3a99-4418-94bb-61da8aa1a244)
